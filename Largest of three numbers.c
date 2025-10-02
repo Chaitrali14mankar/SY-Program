@@ -8,4 +8,5 @@ int main() {
     } else {
         printf("%d", c);
     }
-    retur
+    return 0;
+}
